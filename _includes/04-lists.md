@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+A list of some of my favorite books.
+
+* Business
+    - High Output Management 🏭
+    - Principles
+- History
+    - Sapiens 🐒
+    - Team of Rivals
